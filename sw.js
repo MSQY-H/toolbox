@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alpinestar-toolbox-v18' // 版本号更新
+const CACHE_NAME = 'alpinestar-toolbox-20260912042257' // 版本号更新
 const CHANNEL_NAME = 'sw-cache-channel'
 
 // ====== 手动维护需要预缓存的外部资源（CDN） ======
